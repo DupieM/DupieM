@@ -1,3 +1,5 @@
+[![Mariné GitHub Banner](assets/Banner.png)]
+
 ## Hi there 👋
 
 <!--
