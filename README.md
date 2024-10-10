@@ -9,10 +9,14 @@
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DupieM&langs_count=9&theme=merko)
+<br>
 
-![Mariné's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DupieM&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DupieM&langs_count=9&theme=tokyonight)
 
+![Mariné's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DupieM&show_icons=true&theme=tokyonight)
+
+<br>
+<br>
 
 ## 💼 Skills
 
