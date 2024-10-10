@@ -18,9 +18,7 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DupieM&langs_count=9&theme=tokyonight)
-![Mariné's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DupieM&show_icons=true&theme=tokyonight)
-
-<br>
+![Mariné's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DupieM&show_icons=true&theme=tokyonight)s
 
 ## 💼 Skills
 
