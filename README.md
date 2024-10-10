@@ -11,7 +11,7 @@
 
 
 
-![Mariné's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DupieM&show_icons=true&theme=dark)
+![Mariné's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DupieM&show_icons=true&theme=radical)
 
 
 ## 💼 Skills
