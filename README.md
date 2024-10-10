@@ -7,34 +7,34 @@
 
 ## 📌 Pinned Repositories
 
+<br>
+
+?
+
+<br>
+
 ## 📈 GitHub Stats
 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DupieM&langs_count=9&theme=tokyonight)
-
 ![Mariné's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DupieM&show_icons=true&theme=tokyonight)
 
-<br>
 <br>
 
 ## 💼 Skills
 
+<br>
+
+?
+
+<br>
+
 ## 📧 Contact Me
 
+<br>
 
+?
 
-<!--
-**DupieM/DupieM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
