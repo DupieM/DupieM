@@ -22,7 +22,10 @@
 
 ## 💼 Skills
 
-?
+Software:
+
+<br>
+Languages:
 
 ## 📧 Contact Information
 
