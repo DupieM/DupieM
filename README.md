@@ -23,7 +23,7 @@
 ## 💼 Skills
 
 ### Software:
-<a href="https://code.visualstudio.com/">![Visual Studio]()</a>
+<a href="https://code.visualstudio.com/">![Visual Studio](https://img.shields.io/badge/Visual%20Studio-url?style=for-the-badge&logo=visual-studio-code&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://github.com/">![Github](https://img.shields.io/badge/github-url?style=for-the-badge&logo=github&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://www.pgadmin.org/">![pgAdmin](https://img.shields.io/badge/pgadmin-url?style=for-the-badge&logo=PostgreSQL&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/mysql-url?style=for-the-badge&logo=MYSQL&logoColor=%23EEE170&color=%231A1B26
