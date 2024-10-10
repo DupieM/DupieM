@@ -24,9 +24,9 @@
 
 ### Software:
 <a href="https://code.visualstudio.com/">![Visual Studio]()</a>
-<a href="https://github.com/">![Static Badge](https://img.shields.io/badge/github-url?style=for-the-badge&logo=github&logoColor=%23EEE170&color=%231A1B26)</a>
-<a href="https://www.pgadmin.org/">![Static Badge](https://img.shields.io/badge/pgadmin-url?style=for-the-badge&logo=PostgreSQL&logoColor=%23EEE170&color=%231A1B26)</a>
-<a href="https://www.mysql.com/">![Static Badge](https://img.shields.io/badge/mysql-url?style=for-the-badge&logo=MYSQL&logoColor=%23EEE170&color=%231A1B26
+<a href="https://github.com/">![Github](https://img.shields.io/badge/github-url?style=for-the-badge&logo=github&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://www.pgadmin.org/">![pgAdmin](https://img.shields.io/badge/pgadmin-url?style=for-the-badge&logo=PostgreSQL&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/mysql-url?style=for-the-badge&logo=MYSQL&logoColor=%23EEE170&color=%231A1B26
 )</a>
 
 ### Languages:
@@ -37,20 +37,19 @@
 <a href="https://getbootstrap.com/">![Bootsrap](https://img.shields.io/badge/bootstrap-url?style=for-the-badge&logo=bootstrap&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://angular.dev/">![Angular](https://img.shields.io/badge/angular-url?style=for-the-badge&logo=angular&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://www.w3schools.com/cs/index.php">![C#](https://img.shields.io/badge/c%20sharp-url?style=for-the-badge&logo=csharp&logoColor=%23EEE170&labelColor=%231A1B26&color=%231A1B26)</a>
-<a href="">![React Native]()</a>
-<a href="">![Angular]()</a>
-<a href="">![Electron]()</a>
-<a href="">![Kotlin]()</a>
-<a href="">![PHP]()</a>
-<a href="">![.net]()</a>
-<a href="">![Firebase]()</a>
+<a href="https://reactnative.dev/">![React Native](https://img.shields.io/badge/react%20native-url?style=for-the-badge&logo=react&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://electronjs.org/">![Electron](https://img.shields.io/badge/electron-url?style=for-the-badge&logo=electron&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://kotlinlang.org/">![Kotlin](https://img.shields.io/badge/kotlin-url?style=for-the-badge&logo=kotlin&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://www.php.net/">![PHP](https://img.shields.io/badge/php-url?style=for-the-badge&logo=php&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://dotnet.microsoft.com/en-us/">![.net](https://img.shields.io/badge/net-url?style=for-the-badge&logo=.net&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://firebase.google.com/">![Firebase](https://img.shields.io/badge/firebase-url?style=for-the-badge&logo=firebase&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://jwt.io/">![JWT](https://img.shields.io/badge/jwt-url?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=%23EEE170&color=%231A1B26)</a>
 
-Mern Stack:
-
-<a href="">![MongoDB]()</a>
-<a href="">![Express.js]()</a>
-<a href="">![React]()</a>
-<a href="">![Node.js]()</a>
+#### Mern Stack:
+<a href="https://www.mongodb.com/">![MongoDB](https://img.shields.io/badge/mongodb-url?style=for-the-badge&logo=mongodb&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://expressjs.com/">![Express.js](https://img.shields.io/badge/Express.js-url?style=for-the-badge&logo=Express&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://react.dev/">![React](https://img.shields.io/badge/react-url?style=for-the-badge&logo=react&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://nodejs.org/en">![Node.js](https://img.shields.io/badge/node.js-url?style=for-the-badge&logo=node.js&logoColor=%23EEE170&color=%231A1B26)</a>
 
 ## 📧 Contact Information
 
