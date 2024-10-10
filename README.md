@@ -22,11 +22,11 @@
 
 ## 💼 Skills
 
-#### Software:
+### Software:
 
 <br>
 
-#### Languages:
+### Languages:
 
 ## 📧 Contact Information
 
