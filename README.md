@@ -37,7 +37,6 @@
 <a href="https://getbootstrap.com/">![Bootsrap](https://img.shields.io/badge/bootstrap-url?style=for-the-badge&logo=bootstrap&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://angular.dev/">![Angular](https://img.shields.io/badge/angular-url?style=for-the-badge&logo=angular&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://www.w3schools.com/cs/index.php">![C#](https://img.shields.io/badge/c%20sharp-url?style=for-the-badge&logo=csharp&logoColor=%23EEE170&labelColor=%231A1B26&color=%231A1B26)</a>
-<a href="">![Mern Stack]()</a>
 <a href="">![React Native]()</a>
 <a href="">![Angular]()</a>
 <a href="">![Electron]()</a>
@@ -45,7 +44,12 @@
 <a href="">![PHP]()</a>
 <a href="">![.net]()</a>
 <a href="">![Firebase]()</a>
+
+Mern Stack:
 <a href="">![MongoDB]()</a>
+<a href="">![Express.js]()</a>
+<a href="">![React]()</a>
+<a href="">![Node.js]()</a>
 
 ## 📧 Contact Information
 
