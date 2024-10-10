@@ -9,7 +9,7 @@
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/DupieM/duplessismarine_221326_funrun">
+<a href="https://github.com/DupieM">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_Final_Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
