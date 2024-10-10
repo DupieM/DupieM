@@ -9,7 +9,7 @@
 
 ## 📈 GitHub Stats
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DupieM&langs_count=8&theme=radical)
 
 ![Mariné's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DupieM&show_icons=true&theme=radical)
 
