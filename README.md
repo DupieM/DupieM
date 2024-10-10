@@ -25,7 +25,7 @@
 ### Software:
 <a href="https://code.visualstudio.com/">![Static Badge](https://img.shields.io/badge/Visual%20Studio-url?style=for-the-badge&logo=Visual%20Studio%20Code&color=%231A1B26)</a>
 <a href="https://github.com/">![Static Badge](https://img.shields.io/badge/Github-url?style=for-the-badge&logo=Github&logoColor=%23B893ED&color=%231A1B26)</a>
-<a href="https://www.pgadmin.org/">![Static Badge](https://img.shields.io/badge/pgadmin-url?style=for-the-badge&logo=PostgreSQL&logoColor=%2362BAAE&color=%231A1B26)</a>
+<a href="https://www.pgadmin.org/">![Static Badge](https://img.shields.io/badge/pgadmin-url?style=for-the-badge&logo=PostgreSQL&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://www.mysql.com/">![Static Badge](https://img.shields.io/badge/%20MySQL-url?style=for-the-badge&logo=MYSQL&logoColor=%23B893ED&color=%231A1B26)</a>
 
 ### Languages:
