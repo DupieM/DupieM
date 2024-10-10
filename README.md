@@ -5,6 +5,16 @@
 
 ## Hi there 👋
 
+## 📌 Pinned Repositories
+
+## 📈 GitHub Stats
+
+## 💼 Skills
+
+## 📧 Contact Me
+
+
+
 <!--
 **DupieM/DupieM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
