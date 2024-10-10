@@ -30,10 +30,10 @@
 )</a>
 
 ### Languages:
-<a href="">![HTML]()</a>
-<a href="">![CSS]()</a>
+<a href="">![HTML](https://img.shields.io/badge/HTML-url?style=for-the-badge&logo=html5&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="">![CSS](https://img.shields.io/badge/css-url?style=for-the-badge&logo=css3&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="">![Javascript](https://img.shields.io/badge/javascript-url?style=for-the-badge&logo=javascript&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="">![Jquery]()</a>
-<a href="">![Javascript]()</a>
 <a href="">![Bootsrap]()</a>
 <a href="">![Angular]()</a>
 <a href="">![C#]()</a>
