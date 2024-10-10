@@ -1,7 +1,7 @@
 ![Mariné GitHub Banner](assets/Final_Banner.png)
 
-<a href="in/mariné-du-plessis-8198a3183">![Static Badge](https://img.shields.io/badge/behance-url?style=for-the-badge&logo=Behance&color=blue)</a>
-<a href="https://www.behance.net/marineduplessis">![Static Badge](https://img.shields.io/badge/LinkedIn-url?style=for-the-badge&logo=linkedIn&color=blue)</a>
+<a href="https://www.behance.net/marineduplessis">![Static Badge](https://img.shields.io/badge/behance-url?style=for-the-badge&logo=Behance&color=blue)</a>
+<a href="www.linkedin.com/in/mariné-du-plessis-8198a3183">![Static Badge](https://img.shields.io/badge/LinkedIn-url?style=for-the-badge&logo=linkedIn&color=blue)</a>
 
 ## Hi there 👋
 
