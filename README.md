@@ -23,25 +23,29 @@
 ## 💼 Skills
 
 ### Software:
-<a href="https://code.visualstudio.com/">![Static Badge]()</a>
+<a href="https://code.visualstudio.com/">![Visual Studio]()</a>
 <a href="https://github.com/">![Static Badge](https://img.shields.io/badge/github-url?style=for-the-badge&logo=github&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://www.pgadmin.org/">![Static Badge](https://img.shields.io/badge/pgadmin-url?style=for-the-badge&logo=PostgreSQL&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://www.mysql.com/">![Static Badge](https://img.shields.io/badge/mysql-url?style=for-the-badge&logo=MYSQL&logoColor=%23EEE170&color=%231A1B26
 )</a>
 
 ### Languages:
-<a href="">![Static Badge]()</a>
-<a href="">![Static Badge]()</a>
-<a href="">![Static Badge]()</a>
-<a href="">![Static Badge]()</a>
-<a href="">![Static Badge]()</a>
-<a href="">![Static Badge]()</a>
-
-<a href="">![Static Badge]()</a>
-<a href="">![Static Badge]()</a>
-<a href="">![Static Badge]()</a>
-<a href="">![Static Badge]()</a>
-<a href="">![Static Badge]()</a>
+<a href="">![HTML]()</a>
+<a href="">![CSS]()</a>
+<a href="">![Jquery]()</a>
+<a href="">![Javascript]()</a>
+<a href="">![Bootsrap]()</a>
+<a href="">![Angular]()</a>
+<a href="">![C#]()</a>
+<a href="">![Mern Stack]()</a>
+<a href="">![React Native]()</a>
+<a href="">![Angular]()</a>
+<a href="">![Electron]()</a>
+<a href="">![Kotlin]()</a>
+<a href="">![PHP]()</a>
+<a href="">![.net]()</a>
+<a href="">![Firebase]()</a>
+<a href="">![MongoDB]()</a>
 
 ## 📧 Contact Information
 
