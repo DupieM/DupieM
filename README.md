@@ -9,7 +9,7 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_funrun&theme=tokyonight)](https://github.com/DieterR97/Astro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_funrun&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_funrun)
 
 ## 📈 GitHub Stats
 
