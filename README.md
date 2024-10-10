@@ -9,7 +9,7 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=&theme=tokyonight)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_funrun&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_funrun)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_Final_Project&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_Final_Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=final_project&theme=tokyonight)](https://github.com/DupieM/final_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_finalproject_dv_term3&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_finalproject_dv_term3)
