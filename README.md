@@ -30,13 +30,13 @@
 )</a>
 
 ### Languages:
-<a href="">![HTML](https://img.shields.io/badge/HTML-url?style=for-the-badge&logo=html5&logoColor=%23EEE170&color=%231A1B26)</a>
-<a href="">![CSS](https://img.shields.io/badge/css-url?style=for-the-badge&logo=css3&logoColor=%23EEE170&color=%231A1B26)</a>
-<a href="">![Javascript](https://img.shields.io/badge/javascript-url?style=for-the-badge&logo=javascript&logoColor=%23EEE170&color=%231A1B26)</a>
-<a href="">![Jquery]()</a>
-<a href="">![Bootsrap]()</a>
-<a href="">![Angular]()</a>
-<a href="">![C#]()</a>
+<a href="https://www.w3schools.com/html/">![HTML](https://img.shields.io/badge/HTML-url?style=for-the-badge&logo=html5&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://www.w3schools.com/css/">![CSS](https://img.shields.io/badge/css-url?style=for-the-badge&logo=css3&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://www.w3schools.com/js/DEFAULT.asp">![Javascript](https://img.shields.io/badge/javascript-url?style=for-the-badge&logo=javascript&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://jquery.com/">![Jquery](https://img.shields.io/badge/jquery-url?style=for-the-badge&logo=jquery&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://getbootstrap.com/">![Bootsrap](https://img.shields.io/badge/bootstrap-url?style=for-the-badge&logo=bootstrap&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://angular.dev/">![Angular](https://img.shields.io/badge/angular-url?style=for-the-badge&logo=angular&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://www.w3schools.com/cs/index.php">![C#](https://img.shields.io/badge/c%20sharp-url?style=for-the-badge&logo=csharp&logoColor=%23EEE170&label=C%23&labelColor=%231A1B26&color=%231A1B26)</a>
 <a href="">![Mern Stack]()</a>
 <a href="">![React Native]()</a>
 <a href="">![Angular]()</a>
