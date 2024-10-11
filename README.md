@@ -8,11 +8,11 @@
 ## 📌 Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_funrun&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_funrun)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_DV300_T_Galactic_Getaways_App&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_DV300_T_Galactic_Getaways_App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_dv-200_term4&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_dv-200_term4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_Final_Project&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_Final_Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=final_project&theme=tokyonight)](https://github.com/DupieM/final_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_finalproject_dv_term3&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_finalproject_dv_term3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_dv-200_term4&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_dv-200_term4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_DV300_T_Galactic_Getaways_App&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_DV300_T_Galactic_Getaways_App)
 
 
 ## 📈 GitHub Stats
@@ -26,8 +26,7 @@
 <a href="https://code.visualstudio.com/">![Visual Studio](https://img.shields.io/badge/Visual%20Studio-url?style=for-the-badge&logo=visual-studio-code&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://github.com/">![Github](https://img.shields.io/badge/github-url?style=for-the-badge&logo=github&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://www.pgadmin.org/">![pgAdmin](https://img.shields.io/badge/pgadmin-url?style=for-the-badge&logo=PostgreSQL&logoColor=%23EEE170&color=%231A1B26)</a>
-<a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/mysql-url?style=for-the-badge&logo=MYSQL&logoColor=%23EEE170&color=%231A1B26
-)</a>
+<a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/mysql-url?style=for-the-badge&logo=MYSQL&logoColor=%23EEE170&color=%231A1B26)</a>
 
 ### Languages:
 <a href="https://www.w3schools.com/html/">![HTML](https://img.shields.io/badge/HTML-url?style=for-the-badge&logo=html5&logoColor=%23EEE170&color=%231A1B26)</a>
