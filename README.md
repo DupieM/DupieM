@@ -14,11 +14,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_finalproject_dv_term3&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_finalproject_dv_term3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_dv-200_term4&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_dv-200_term4)
 
-
+<img class="StatsTrophies stats_hide" src="https://github-profile-trophy.vercel.app/?username=NicoVanWyk&amp;theme=gruvbox" alt="GitHub Trophies">
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DupieM&langs_count=9&theme=tokyonight)
 ![Mariné's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DupieM&show_icons=true&theme=tokyonight)
+![Mariné's GitHub stats-Dark](https://github-profile-trophy.vercel.app/?username=DupieM&show_icons=true&theme=tokyonight)
 
 ## 💼 Skills
 
