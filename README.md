@@ -13,6 +13,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=final_project&theme=tokyonight)](https://github.com/DupieM/final_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_finalproject_dv_term3&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_finalproject_dv_term3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_dv-200_term4&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_dv-200_term4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_carbontrack&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_carbontrack)
 
 ## 📈 GitHub Stats
 
