@@ -5,7 +5,7 @@
 
 ## 👋 Hi there!
 I am an Open Window Postgraduate student with my primary focus in Interactive Development.
-I achieved my BA Creative Technologies majoring in User Experience design and interactive Developtment.
+I achieved my BA Creative Technologies majoring in User Experience Design and Interactive Development.
 I see myself as a creative technologist that flourishes during the process of creating designs and bringing them to life.
 I specialise in website and mobile app development.
 
