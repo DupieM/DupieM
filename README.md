@@ -4,7 +4,8 @@
 <a href="https://www.linkedin.com/in/marin%C3%A9-du-plessis-8198a3183/">![Static Badge](https://img.shields.io/badge/LinkedIn-url?style=for-the-badge&logo=linkedIn&color=blue)</a>
 
 ## 👋 Hi there!
-I am an Open Window final year BA User Experience Design and Interactive Development student.
+I am an Open Window Postgraduate student with my primary focus in Interactive Development.
+I achieved my BA Creative Technologies majoring in User Experience design and interactive Developtment.
 I see myself as a creative technologist that flourishes during the process of creating designs and bringing them to life.
 I specialise in website and mobile app development.
 
@@ -44,6 +45,7 @@ I specialise in website and mobile app development.
 
 ## 📌 Pinned Repositories
 
+### Undergraduate
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_funrun&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_funrun)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_DV300_T_Galactic_Getaways_App&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_DV300_T_Galactic_Getaways_App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_Final_Project&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_Final_Project)
@@ -54,6 +56,9 @@ I specialise in website and mobile app development.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_Andriod_final_project&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_Andriod_final_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_andME_Entertainment&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_andME_Entertainment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_Astro&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_Astro)
+
+### Postgraduate
+** To follow
 
 ## 📈 GitHub Stats
 
