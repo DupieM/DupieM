@@ -47,15 +47,15 @@ I specialise in website and mobile app development.
 
 ### Undergraduate
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=FunRun&theme=tokyonight)](https://github.com/DupieM/FunRun)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Galactic-Getaways&theme=tokyonight)](https://github.com/DupieM/Galactic-Getaways)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_Final_Project&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_Final_Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=final_project&theme=tokyonight)](https://github.com/DupieM/final_project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_finalproject_dv_term3&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_finalproject_dv_term3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_dv-200_term4&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_dv-200_term4)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=duplessismarine_221326_carbontrack&theme=tokyonight)](https://github.com/DupieM/duplessismarine_221326_carbontrack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_Andriod_final_project&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_Andriod_final_project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_andME_Entertainment&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_andME_Entertainment)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_Astro&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_Astro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Galactic_Getaways&theme=tokyonight)](https://github.com/DupieM/Galactic_Getaways)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Medical_Office&theme=tokyonight)](https://github.com/DupieM/Medical_Office)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Wild_Animals&theme=tokyonight)](https://github.com/DupieM/Wild_Animals)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=On_The_Go&theme=tokyonight)](https://github.com/DupieM/On_The_Go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=CodeGenius&theme=tokyonight)](https://github.com/DupieM/CodeGenius)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=CarbonTrack&theme=tokyonight)](https://github.com/DupieM/CarbonTrack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=K-Pop_Quiz&theme=tokyonight)](https://github.com/DupieM/K-Pop_Quiz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=andME_Entertainment&theme=tokyonight)](https://github.com/DupieM/andME_Entertainment)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Astro&theme=tokyonight)](https://github.com/DupieM/Astro)
 
 ### Postgraduate
 ** To follow
