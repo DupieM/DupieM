@@ -58,7 +58,8 @@ I specialise in website and mobile app development.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Astro&theme=tokyonight)](https://github.com/DupieM/Astro)
 
 ### Postgraduate
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_The_Thinking_Cabinet&theme=tokyonight)] (https://github.com/DupieM/DuPlessisMarine_221326_The_Thinking_Cabinet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_The_Thinking_Cabinet&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_The_Thinking_Cabinet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_The_Thinking_Cabinet&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_The_Thinking_Cabinet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_EchoMe&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_EchoMe)
 
 ## 📈 GitHub Stats
