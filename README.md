@@ -60,7 +60,7 @@ I specialise in website and mobile app development.
 ### Postgraduate
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_The_Thinking_Cabinet&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_The_Thinking_Cabinet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_EchoMe&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_EchoMe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Motherland_Coffee&theme=tokyonight)](https://github.com/DupieM/Motherland_Coffee)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Motherland_Coffee&theme=tokyonight)](https://github.com/DupieM/Motherland_Coffee) -->
 
 ## 📈 GitHub Stats
 
