@@ -47,8 +47,8 @@ I specialise in website and mobile app development.
 
 ### Undergraduate
 
-|-------------------------------------------------|-------------------------------------------------|
-|FunRun|Galactic Getaways|
+|:------------------------------------------------|:------------------------------------------------|
+|FunRun                                           |Galactic Getaways                                |
 |Features obstacle courses, allowing contestants to join and compete.|A comprehensive video tutorial on how to create a basic native mobile interface.|
 |🔗 Github Link - https://github.com/DupieM/FunRun|🔗 Github Link - https://github.com/DupieM/Galactic_Getaways|
 |-------------------------------------------------|-------------------------------------------------|
