@@ -46,7 +46,11 @@ I specialise in website and mobile app development.
 ## 📌 Pinned Repositories
 
 ### Undergraduate
-[![FunRun](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=FunRun&theme=tokyonight&cache_seconds=3600)](https://github.com/DupieM/FunRun)
+
+#### Funrun
+Features obstacle courses, allowing contestants to join and compete.
+[![FunRun]()](https://github.com/DupieM/FunRun)
+
 [![Galactic Getaways](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Galactic_Getaways&theme=tokyonight)](https://github.com/DupieM/Galactic_Getaways)
 [![Medical Office](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Medical_Office&theme=tokyonight)](https://github.com/DupieM/Medical_Office)
 [![Wild Animals](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Wild_Animals&theme=tokyonight)](https://github.com/DupieM/Wild_Animals)
