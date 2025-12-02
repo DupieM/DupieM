@@ -47,9 +47,9 @@ I specialise in website and mobile app development.
 
 ### Undergraduate
 
-[<img src="assets/appicon.png" alt="Funrun" width="140px" height="140px">(https://github.com/DupieM/FunRun)]
 ### Funrun
 Features obstacle courses, allowing contestants to join and compete.
+🔗 Github Link - https://github.com/DupieM/FunRun
 
 
 [![Galactic Getaways](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Galactic_Getaways&theme=tokyonight)](https://github.com/DupieM/Galactic_Getaways)
