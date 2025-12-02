@@ -47,19 +47,11 @@ I specialise in website and mobile app development.
 
 ### Undergraduate
 
-#### FunRun
-Features obstacle courses, allowing contestants to join and compete. </br>
-🔗 Github Link - https://github.com/DupieM/FunRun
-
-
-#### Galactic Getaways
-A comprehensive video tutorial on how to create a basic native mobile interface. </br>
-🔗 Github Link - https://github.com/DupieM/Galactic_Getaways
-
-
-#### ???
-??? </br>
-🔗 Github Link -
+|-------------------------------------------------|-------------------------------------------------|
+|FunRun|Galactic Getaways|
+|Features obstacle courses, allowing contestants to join and compete.|A comprehensive video tutorial on how to create a basic native mobile interface.|
+|🔗 Github Link - https://github.com/DupieM/FunRun|🔗 Github Link - https://github.com/DupieM/Galactic_Getaways|
+|-------------------------------------------------|-------------------------------------------------|
 
 
 #### ???
@@ -84,8 +76,8 @@ A comprehensive video tutorial on how to create a basic native mobile interface.
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DupieM&layout=donut&langs_count=9&theme=tokyonight)
-![Mariné's GitHub stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DupieM&show_icons=true&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DupieM&layout=donut&langs_count=9&theme=tokyonight)
+![Mariné's GitHub stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DupieM&show_icons=true&theme=tokyonight) -->
 ![Mariné's GitHub stats-Dark](https://github-profile-trophy.vercel.app/?username=DupieM&theme=tokyonight)
 ![Mariné's GitHub stats-Dark](https://github-readme-activity-graph.vercel.app/graph?username=DupieM&theme=tokyonight)
 
