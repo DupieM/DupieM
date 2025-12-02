@@ -48,7 +48,7 @@ I specialise in website and mobile app development.
 ### Undergraduate
 
 |:------------------------------------------------|:------------------------------------------------|
-|Medical Office                                   |Wild Animals                                      |
+|Medical Office                                   |Wild Animals                                     |
 |A medical office management system that helps track patients, appointments, and records.|A project exploring wildlife data and behavior patterns with interactive features.|
 |🔗 Github Link - [Medical Office](https://github.com/DupieM/Medical_Office)|🔗 Github Link - [Wild Animals](https://github.com/DupieM/Wild_Animals)|
 
