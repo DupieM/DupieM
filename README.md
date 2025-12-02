@@ -47,7 +47,7 @@ I specialise in website and mobile app development.
 
 ### Undergraduate
 
-<img src="assets/appicon.png" alt="Funrun" width="140px" height="140px">(https://github.com/DupieM/FunRun)
+[<img src="assets/appicon.png" alt="Funrun" width="140px" height="140px">(https://github.com/DupieM/FunRun)]
 ### Funrun
 Features obstacle courses, allowing contestants to join and compete.
 
