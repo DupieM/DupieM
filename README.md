@@ -48,10 +48,10 @@ I specialise in website and mobile app development.
 ### Undergraduate
 
 |:------------------------------------------------|:------------------------------------------------|
-|FunRun                                           |Galactic Getaways                                |
-|Features obstacle courses, allowing contestants to join and compete.|A comprehensive video tutorial on how to create a basic native mobile interface.|
-|🔗 Github Link - https://github.com/DupieM/FunRun|🔗 Github Link - https://github.com/DupieM/Galactic_Getaways|
-|-------------------------------------------------|-------------------------------------------------|
+|Medical Office                                   |Wild Animals                                      |
+|A medical office management system that helps track patients, appointments, and records.|A project exploring wildlife data and behavior patterns with interactive features.|
+|🔗 Github Link - [Medical Office](https://github.com/DupieM/Medical_Office)|🔗 Github Link - [Wild Animals](https://github.com/DupieM/Wild_Animals)|
+
 
 
 #### ???
