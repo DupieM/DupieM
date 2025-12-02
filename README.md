@@ -58,7 +58,7 @@ I specialise in website and mobile app development.
 [![Astro](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Astro&theme=tokyonight)](https://github.com/DupieM/Astro)
 
 ### Postgraduate
-[![The Thinking Cabinet](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DupieM&repo=The_Thinking_Cabinet&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_The_Thinking_Cabinet)
+[![The Thinking Cabinet](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dupiem&repo=The_Thinking_Cabinet&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_The_Thinking_Cabinet)
 [![EchoMe](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_EchoMe&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_EchoMe)
 [![Motherland Coffee](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Motherland_Coffee&theme=tokyonight)](https://github.com/DupieM/Motherland_Coffee)
 [![BrightFuture](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_BrightFuture&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_BrightFuture)
