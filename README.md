@@ -47,32 +47,49 @@ I specialise in website and mobile app development.
 
 ### Undergraduate
 
-|:------------------------------------------------|:------------------------------------------------|
-|Medical Office                                   |Wild Animals                                     |
-|A medical office management system that helps track patients, appointments, and records.|A project exploring wildlife data and behavior patterns with interactive features.|
-|🔗 Github Link - [Medical Office](https://github.com/DupieM/Medical_Office)|🔗 Github Link - [Wild Animals](https://github.com/DupieM/Wild_Animals)|
+|Project One                                                                          |Project Two                                                                       |
+|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+|FunRun                                                                               |Medical Office                                                                    |
+|Features obstacle courses, allowing contestants to join and compete.                 |A medical office management system that helps track patients, appointments, and records.|
+|🔗 Github Link - https://github.com/DupieM/FunRun                                    |🔗 Github Link - https://github.com/DupieM/Medical_Office                           |
 
+|Project Three                                                                           |Project Four                                                                      |
+|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+|Wild Animals                                                                            |On The Go                                                                         |
+|Data-driven web application using an API of my choice, focusing on research, analysis, and visualization with charts.js in a React-based front end.|Web application by focusing on the technologies of the MERN stack eCommerce web application with complex front and back-end features.|
+|🔗 Github Link - https://github.com/DupieM/Wild_Animals                    |🔗 Github Link - https://github.com/DupieM/On_The_Go|
 
+|Project Five                                                                            |Project Sis                                                                       |
+|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+|CodeGenius|CarbonTrack|
+|MERN stack application that facilitates collaboration between students and lecturers by enabling users to exchange development-specific knowledge|Creating an app to calculate users' carbon footprints, display their data visually (current and historical), and provide insights on the results.|
+|🔗 Github Link - https://github.com/DupieM/CodeGenius|🔗 Github Link - https://github.com/DupieM/CarbonTrack|
 
-#### ???
-??? </br>
-🔗 Github Link -
+|Project Seven                                                                           |Project Eight                                                                     |
+|:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+|K-Pop Quiz|&ME Entertainement|
+|Answer fun or interesting K-Pop questions to test your knowledge on K-Pop with this Quiz mobile application.|A typescript application that simulates how a manufacturing company keep stock of their inventory and create new products.|
+|🔗 Github Link - https://github.com/DupieM/K-Pop_Quiz|🔗 Github Link - https://github.com/DupieM/andME_Entertainment|
 
-
-[![Medical Office](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Medical_Office&theme=tokyonight)](https://github.com/DupieM/Medical_Office)
-[![Wild Animals](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Wild_Animals&theme=tokyonight)](https://github.com/DupieM/Wild_Animals)
-[![On The Go](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=On_The_Go&theme=tokyonight)](https://github.com/DupieM/On_The_Go)
-[![CodeGenius](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=CodeGenius&theme=tokyonight)](https://github.com/DupieM/CodeGenius)
-[![CarbonTrack](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=CarbonTrack&theme=tokyonight)](https://github.com/DupieM/CarbonTrack)
-[![K-Pop Quiz](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=K-Pop_Quiz&theme=tokyonight)](https://github.com/DupieM/K-Pop_Quiz)
-[![&ME Entertainment](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=andME_Entertainment&theme=tokyonight)](https://github.com/DupieM/andME_Entertainment)
-[![Astro](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Astro&theme=tokyonight)](https://github.com/DupieM/Astro)
+|Project Nine                                                                      |
+|:---------------------------------------------------------------------------------|
+|Astro|
+|Develop a cross-platform typescript application simulating an e-banking system that enables account holders to manage their finances.|
+|🔗 Github Link - https://github.com/DupieM/Astro|
 
 ### Postgraduate
-[![The Thinking Cabinet](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dupiem&repo=The_Thinking_Cabinet&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_The_Thinking_Cabinet)
-[![EchoMe](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_EchoMe&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_EchoMe)
-[![Motherland Coffee](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Motherland_Coffee&theme=tokyonight)](https://github.com/DupieM/Motherland_Coffee)
-[![BrightFuture](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_BrightFuture&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_BrightFuture)
+
+|Project One                                                                       |Project Two                                                                       |
+|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+|The Thinking Cabinet|EchoMe|
+|Create a digital cabinet of curiosities by uploading images, generating AI narratives, and engaging in thoughtful Q&A for creative self-reflection.|AI-powered companion that helps students navigate UX design, development, and career planning with personalized guidance.|
+|🔗 Github Link - https://github.com/DupieM/The_Thinking_Cabinet|🔗 Github Link - https://github.com/DupieM/DuPlessisMarine_221326_EchoMe|
+
+|Project Three                                                                     |Project Four                                                                      |
+|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+|Motherland Coffee|BrightFuture|
+|An interactive platform where users share what coffee means to them in their mother language and receive a personalised reward.|Interactive mobile app designed to connect donors and volunteers with the SA Children’s Home.|
+|🔗 Github Link - https://github.com/DupieM/Motherland_Coffee|🔗 Github Link - https://github.com/DupieM/DuPlessisMarine_221326_BrightFuture|
 
 ## 📈 GitHub Stats
 
