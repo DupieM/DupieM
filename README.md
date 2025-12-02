@@ -46,22 +46,22 @@ I specialise in website and mobile app development.
 ## 📌 Pinned Repositories
 
 ### Undergraduate
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=FunRun&theme=tokyonight)](https://github.com/DupieM/FunRun)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Galactic_Getaways&theme=tokyonight)](https://github.com/DupieM/Galactic_Getaways)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Medical_Office&theme=tokyonight)](https://github.com/DupieM/Medical_Office)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Wild_Animals&theme=tokyonight)](https://github.com/DupieM/Wild_Animals)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=On_The_Go&theme=tokyonight)](https://github.com/DupieM/On_The_Go)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=CodeGenius&theme=tokyonight)](https://github.com/DupieM/CodeGenius)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=CarbonTrack&theme=tokyonight)](https://github.com/DupieM/CarbonTrack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=K-Pop_Quiz&theme=tokyonight)](https://github.com/DupieM/K-Pop_Quiz)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=andME_Entertainment&theme=tokyonight)](https://github.com/DupieM/andME_Entertainment)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Astro&theme=tokyonight)](https://github.com/DupieM/Astro)
+[![FunRun](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=FunRun&theme=tokyonight)](https://github.com/DupieM/FunRun)
+[![Galactic Getaways](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Galactic_Getaways&theme=tokyonight)](https://github.com/DupieM/Galactic_Getaways)
+[![Medical Office](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Medical_Office&theme=tokyonight)](https://github.com/DupieM/Medical_Office)
+[![Wild Animals](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Wild_Animals&theme=tokyonight)](https://github.com/DupieM/Wild_Animals)
+[![On The Go](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=On_The_Go&theme=tokyonight)](https://github.com/DupieM/On_The_Go)
+[![CodeGenius](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=CodeGenius&theme=tokyonight)](https://github.com/DupieM/CodeGenius)
+[![CarbonTrack](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=CarbonTrack&theme=tokyonight)](https://github.com/DupieM/CarbonTrack)
+[![K-Pop Quiz](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=K-Pop_Quiz&theme=tokyonight)](https://github.com/DupieM/K-Pop_Quiz)
+[![&ME Entertainment](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=andME_Entertainment&theme=tokyonight)](https://github.com/DupieM/andME_Entertainment)
+[![Astro](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Astro&theme=tokyonight)](https://github.com/DupieM/Astro)
 
 ### Postgraduate
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=The_Thinking_Cabinet&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_The_Thinking_Cabinet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_EchoMe&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_EchoMe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Motherland_Coffee&theme=tokyonight)](https://github.com/DupieM/Motherland_Coffee)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_BrightFuture&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_BrightFuture)
+[![The Thinking Cabinet](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=The_Thinking_Cabinet&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_The_Thinking_Cabinet)
+[![EchoMe](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_EchoMe&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_EchoMe)
+[![Motherland Coffee](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=Motherland_Coffee&theme=tokyonight)](https://github.com/DupieM/Motherland_Coffee)
+[![BrightFuture](https://github-readme-stats.vercel.app/api/pin/?username=DupieM&repo=DuPlessisMarine_221326_BrightFuture&theme=tokyonight)](https://github.com/DupieM/DuPlessisMarine_221326_BrightFuture)
 
 ## 📈 GitHub Stats
 
