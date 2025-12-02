@@ -47,8 +47,8 @@ I specialise in website and mobile app development.
 
 ### Undergraduate
 
-### Funrun
-Features obstacle courses, allowing contestants to join and compete.
+<h3>FunRun</h3>
+Features obstacle courses, allowing contestants to join and compete. </br>
 🔗 Github Link - https://github.com/DupieM/FunRun
 
 
