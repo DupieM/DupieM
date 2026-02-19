@@ -47,41 +47,38 @@ I specialise in website and mobile app development.
 ### Undergraduate
 
 #### 2nd Year
+|Project One                                                                          |Project Two                                                                       |
+|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+|Medical Office                                                                              |Wild Animals                                                                   |
+|A medical office management system that helps track patients, appointments, and records.                 |Data-driven web application using an API of my choice, focusing on research, analysis, and visualization with charts.js in a React-based front end.|
+|🔗 Github Link - https://github.com/DupieM/Medical_Office                                  |🔗 Github Link - https://github.com/DupieM/Wild_Animals                           |
 
+|Project Three                                                                          |Project Four                                                                       |
+|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+|On The Go                                                                               |CodeGenius                                                                   |
+|Web application by focusing on the technologies of the MERN stack eCommerce web application with complex front and back-end features.                 |MERN stack application that facilitates collaboration between students and lecturers by enabling users to exchange development-specific knowledge|
+|🔗 Github Link - https://github.com/DupieM/On_The_Go                                  |🔗 Github Link - https://github.com/DupieM/CodeGenius                       |
+
+|Project Five                                                                          |
+|:---------------------------------------------------------------------------------|
+|K-Pop Quiz                                                                             |
+|Answer fun or interesting K-Pop questions to test your knowledge on K-Pop with this Quiz mobile application.                 |???|
+|🔗  Github Link - https://github.com/DupieM/K-Pop_Quiz                                 |
 
 
 #### 3rd Year
-
-
 |Project One                                                                          |Project Two                                                                       |
 |:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
-|FunRun                                                                               |Medical Office                                                                    |
-|Features obstacle courses, allowing contestants to join and compete.                 |A medical office management system that helps track patients, appointments, and records.|
-|🔗 Github Link - https://github.com/DupieM/FunRun                                    |🔗 Github Link - https://github.com/DupieM/Medical_Office                           |
+|&ME Entertainement                                                                              |FunRun                                                                    |
+|A typescript application that simulates how a manufacturing company keep stock of their inventory and create new products.|Features obstacle courses, allowing contestants to join and compete.|
+|🔗 Github Link - https://github.com/DupieM/andME_Entertainment                                  |🔗 Github Link - https://github.com/DupieM/FunRun                          |
 
-|Project Three                                                                           |Project Four                                                                      |
+|Project Three                                                                          |Project Four                                                                       |
 |:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
-|Wild Animals                                                                            |On The Go                                                                         |
-|Data-driven web application using an API of my choice, focusing on research, analysis, and visualization with charts.js in a React-based front end.|Web application by focusing on the technologies of the MERN stack eCommerce web application with complex front and back-end features.|
-|🔗 Github Link - https://github.com/DupieM/Wild_Animals                    |🔗 Github Link - https://github.com/DupieM/On_The_Go|
+|Astro                                                                              |CarbonTrack                                                                  |
+|Develop a cross-platform typescript application simulating an e-banking system that enables account holders to manage their finances.   |Creating an app to calculate users' carbon footprints, display their data visually (current and historical), and provide insights on the results.|
+|🔗 Github Link - https://github.com/DupieM/Astro                                |🔗 Github Link - https://github.com/DupieM/CarbonTrack                         |
 
-|Project Five                                                                            |Project Six                                                                       |
-|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
-|CodeGenius|CarbonTrack|
-|MERN stack application that facilitates collaboration between students and lecturers by enabling users to exchange development-specific knowledge|Creating an app to calculate users' carbon footprints, display their data visually (current and historical), and provide insights on the results.|
-|🔗 Github Link - https://github.com/DupieM/CodeGenius|🔗 Github Link - https://github.com/DupieM/CarbonTrack|
-
-|Project Seven                                                                           |Project Eight                                                                     |
-|:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
-|K-Pop Quiz|&ME Entertainement|
-|Answer fun or interesting K-Pop questions to test your knowledge on K-Pop with this Quiz mobile application.|A typescript application that simulates how a manufacturing company keep stock of their inventory and create new products.|
-|🔗 Github Link - https://github.com/DupieM/K-Pop_Quiz|🔗 Github Link - https://github.com/DupieM/andME_Entertainment|
-
-|Project Nine                                                                      |
-|:---------------------------------------------------------------------------------|
-|Astro|
-|Develop a cross-platform typescript application simulating an e-banking system that enables account holders to manage their finances.|
-|🔗 Github Link - https://github.com/DupieM/Astro|
 
 ### Postgraduate
 
