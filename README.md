@@ -95,7 +95,7 @@ I specialise in website and mobile app development.
 
 <!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DupieM&layout=donut&langs_count=9&theme=tokyonight)
 ![Mariné's GitHub stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DupieM&show_icons=true&theme=tokyonight) -->
-![Mariné's GitHub stats-Dark](https://github-profile-trophy.vercel.app/?username=DupieM&theme=tokyonight)
+<!-- ![Mariné's GitHub stats-Dark](https://github-profile-trophy.vercel.app/?username=DupieM&theme=tokyonight) -->
 ![Mariné's GitHub stats-Dark](https://github-readme-activity-graph.vercel.app/graph?username=DupieM&theme=tokyonight)
 
 
