@@ -4,8 +4,7 @@
 <a href="https://www.linkedin.com/in/marin%C3%A9-du-plessis-8198a3183/">![Static Badge](https://img.shields.io/badge/LinkedIn-url?style=for-the-badge&logo=linkedIn&color=blue)</a>
 
 ## 👋 Hi there!
-I am an Open Window Postgraduate student with my primary focus in Interactive Development.
-I achieved my BA Creative Technologies majoring in User Experience Design and Interactive Development.
+I achieved my BA Creative Technologies majoring in User Experience Design and Interactive Development, in addition I have completed my Postgarduate Diploma in Creative Practice with my primary being Inbteractive Development.
 I see myself as a creative technologist that flourishes during the process of creating designs and bringing them to life.
 I specialise in website and mobile app development.
 
@@ -59,7 +58,7 @@ I specialise in website and mobile app development.
 |Data-driven web application using an API of my choice, focusing on research, analysis, and visualization with charts.js in a React-based front end.|Web application by focusing on the technologies of the MERN stack eCommerce web application with complex front and back-end features.|
 |🔗 Github Link - https://github.com/DupieM/Wild_Animals                    |🔗 Github Link - https://github.com/DupieM/On_The_Go|
 
-|Project Five                                                                            |Project Sis                                                                       |
+|Project Five                                                                            |Project Six                                                                       |
 |:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
 |CodeGenius|CarbonTrack|
 |MERN stack application that facilitates collaboration between students and lecturers by enabling users to exchange development-specific knowledge|Creating an app to calculate users' carbon footprints, display their data visually (current and historical), and provide insights on the results.|
