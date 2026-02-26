@@ -86,13 +86,13 @@ I specialise in website and mobile app development.
 |:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
 |The Thinking Cabinet|EchoMe|
 |Create a digital cabinet of curiosities by uploading images, generating AI narratives, and engaging in thoughtful Q&A for creative self-reflection.|AI-powered companion that helps students navigate UX design, development, and career planning with personalized guidance.|
-|🔗 Github Link - https://github.com/DupieM/The_Thinking_Cabinet|🔗 Github Link - https://github.com/DupieM/DuPlessisMarine_221326_EchoMe|
+|🔗 Github Link - https://github.com/DupieM/The_Thinking_Cabinet|🔗 Github Link - https://github.com/DupieM/EchoMe|
 
 |Project Three                                                                     |Project Four                                                                      |
 |:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
 |Motherland Coffee|BrightFuture|
 |An interactive platform where users share what coffee means to them in their mother language and receive a personalised reward.|Interactive mobile app designed to connect donors and volunteers with the SA Children’s Home.|
-|🔗 Github Link - https://github.com/DupieM/Motherland_Coffee|🔗 Github Link - https://github.com/DupieM/DuPlessisMarine_221326_BrightFuture|
+|🔗 Github Link - https://github.com/DupieM/Motherland_Coffee|🔗 Github Link - https://github.com/DupieM/BrightFuture|
 
 ## 📈 GitHub Stats
 
