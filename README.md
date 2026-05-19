@@ -18,7 +18,7 @@ I specialise in website and mobile app development.
 <a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/mysql-url?style=for-the-badge&logo=MYSQL&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://www.figma.com/">![Figma](https://img.shields.io/badge/figma-url?style=for-the-badge&logo=figma&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://expo.dev/go">![Expo Go](https://img.shields.io/badge/expo%20go-url?style=for-the-badge&logo=expo&logoColor=%23EEE170&color=%231A1B26)</a>
-<a href="https://firebase.google.com/">![Firebase](https://img.shields.io/badge/Firebase-url?style=for-the-badge&logo=Firebase&logoColor=yellow&color=black)</a>
+<a href="https://firebase.google.com/">![Firebase](https://img.shields.io/badge/Firebase-url?style=for-the-badge&logo=Firebase&logoColor=%23EEE170&color=%231A1B26)</a>
 
 ### Languages:
 <a href="https://www.w3schools.com/html/">![HTML](https://img.shields.io/badge/HTML-url?style=for-the-badge&logo=html5&logoColor=%23EEE170&color=%231A1B26)</a>
@@ -36,9 +36,9 @@ I specialise in website and mobile app development.
 <a href="https://firebase.google.com/">![Firebase](https://img.shields.io/badge/firebase-url?style=for-the-badge&logo=firebase&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://jwt.io/">![JWT](https://img.shields.io/badge/jwt-url?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=%23EEE170&color=%231A1B26)</a>
 <a href="https://www.python.org/">![Python](https://img.shields.io/badge/python-url?style=for-the-badge&logo=python&logoColor=%23EEE170&color=%231A1B26)</a>
-![API](https://img.shields.io/badge/API-url?style=for-the-badge&logoColor=yellow&color=black)
-<a href="https://openai.com/">![OpenAI](https://img.shields.io/badge/openai-url?style=for-the-badge&logo=openaigym&logoColor=yellow&color=black)</a>
-<a href="https://www.chartjs.org/">![Charts](https://img.shields.io/badge/charts.js-url?style=for-the-badge&logo=chartdotjs&logoColor=yellow&color=black)</a>
+![API](https://img.shields.io/badge/API-url?style=for-the-badge&logoColor=%23EEE170&color=%231A1B26)
+<a href="https://openai.com/">![OpenAI](https://img.shields.io/badge/openai-url?style=for-the-badge&logo=openaigym&logoColor=%23EEE170&color=%231A1B26)</a>
+<a href="https://www.chartjs.org/">![Charts](https://img.shields.io/badge/charts.js-url?style=for-the-badge&logo=chartdotjs&logoColor=%23EEE170&color=%231A1B26)</a>
 
 #### MERN Stack:
 <a href="https://www.mongodb.com/">![MongoDB](https://img.shields.io/badge/mongodb-url?style=for-the-badge&logo=mongodb&logoColor=%23EEE170&color=%231A1B26)</a>
