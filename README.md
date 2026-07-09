@@ -98,6 +98,14 @@ I specialise in website and mobile app development.
 |An interactive platform where users share what coffee means to them in their mother language and receive a personalised reward.|Interactive mobile app designed to connect donors and volunteers with the SA Children’s Home.|
 |🔗 Github Link - https://github.com/DupieM/Motherland_Coffee|🔗 Github Link - https://github.com/DupieM/BrightFuture|
 
+### Certificates
+
+|Project One                                                                          |
+|:---------------------------------------------------------------------------------|
+|Udemy                                                                            |
+|Learninmg the basics fundamentals of C# and the .NET programming Framework                 |
+|🔗  Github Link - https://github.com/DupieM/Udemy                                |
+
 ## 📈 GitHub Stats
 
 <!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DupieM&layout=donut&langs_count=9&theme=tokyonight)
