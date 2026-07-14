@@ -102,7 +102,7 @@ I specialise in website and mobile app development.
 
 |Project One                                                                          |
 |:---------------------------------------------------------------------------------|
-|Udemy                                                                            |
+|Udemy (C#)                                                                            |
 |Learninmg the basics fundamentals of C# and the .NET programming Framework                 |
 |🔗  Github Link - https://github.com/DupieM/Udemy                                |
 
